@@ -1,1 +1,2 @@
-dev: 开发
+config: 
+  info: dev-config 1
